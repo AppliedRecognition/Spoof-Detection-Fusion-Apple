@@ -13,8 +13,8 @@ let package = Package(
             targets: ["FusionSpoofDetection"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/AppliedRecognition/Spoof-Device-Detection-Ver-ID-3-Apple.git", .upToNextMajor(from: "1.0.1")),
-        .package(url: "https://github.com/AppliedRecognition/Spoof-Detection-Fasnet-Apple.git", .upToNextMajor(from: "1.0.0"))
+        .package(url: "https://github.com/AppliedRecognition/Spoof-Device-Detection-Ver-ID-3-Apple.git", .upToNextMajor(from: "1.0.2")),
+        .package(url: "https://github.com/AppliedRecognition/Spoof-Detection-Fasnet-Apple.git", .upToNextMajor(from: "1.0.1"))
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
