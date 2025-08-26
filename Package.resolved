@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AppliedRecognition/Spoof-Detection-Fasnet-Apple.git",
       "state" : {
-        "revision" : "4e559dfffa570e48ce1cb9d9bae1c945fbc42254",
-        "version" : "1.0.0"
+        "revision" : "4dd14ccfea173b0810ec33ea5dd0ed0a5c316fc7",
+        "version" : "1.0.1"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AppliedRecognition/Spoof-Device-Detection-Ver-ID-3-Apple.git",
       "state" : {
-        "revision" : "bb129ee2f5976144a102f8c92496fa949e62d196",
-        "version" : "1.0.1"
+        "revision" : "f4f6063ae0923a26666993127d7bf9e7e2719b25",
+        "version" : "1.0.2"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AppliedRecognition/Ver-ID-Common-Types-Apple.git",
       "state" : {
-        "revision" : "23d4fa03f22a006d5a3cf9b044aa029acbb55f09",
-        "version" : "2.0.0"
+        "revision" : "2ca2404344966ef1feb18b5b676beb51138a7792",
+        "version" : "3.0.0"
       }
     }
   ],
